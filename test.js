@@ -8,3 +8,7 @@ alert('aloo')
 
 var i = 0;
 i++ 
+
+function palingBaru() {
+    console.log("baru banget lochhh");
+}
